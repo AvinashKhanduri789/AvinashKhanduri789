@@ -1,126 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Avinash Handuri – Full-Stack Developer</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      background-color: #f8f9fa;
-      margin: 20px;
-    }
-    h1, h2, h3 {
-      color: #0a66c2;
-    }
-    h1 {
-      font-size: 2em;
-      margin-bottom: 0.3em;
-    }
-    h2 {
-      font-size: 1.5em;
-      margin-top: 1em;
-    }
-    h3 {
-      font-size: 1.2em;
-      margin-top: 1em;
-    }
-    p {
-      margin: 0.4em 0;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    li {
-      margin: 0.3em 0;
-    }
-    .skills, .projects, .experience, .connect {
-      margin-top: 1em;
-      padding: 15px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-    }
-    .highlight {
-      color: #ff5722;
-      font-weight: bold;
-    }
-    a {
-      color: #0a66c2;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+# Avinash Khanduri
 
-  <h1>Avinash Handuri</h1>
-  <p><span class="highlight">Full-Stack Developer</span> specializing in Spring Boot & MERN stack. I build scalable backend systems, clean APIs, and user-focused web & mobile solutions.</p>
+**Full-Stack Developer** specializing in Spring Boot & MERN stack. I build **scalable backend systems**, **clean API architectures**, and **user-focused web and mobile solutions**. My work focuses on structured problem-solving, long-term maintainability, and delivering real-world solutions that have impact.
 
-  <div class="skills">
-    <h2>💻 Technical Skills</h2>
-    <ul>
-      <li><strong>Backend:</strong> Java, Spring Boot, REST APIs, JWT Authentication, Role-Based Access Control, Microservices, Kafka, WebSockets</li>
-      <li><strong>Frontend:</strong> React, React Native, Expo, Tailwind CSS</li>
-      <li><strong>Database:</strong> MongoDB, Aggregation, Indexing, Data Modeling</li>
-      <li><strong>DevOps & Tools:</strong> Docker, Git/GitHub, VSCode, IntelliJ, Postman</li>
-      <li><strong>Other:</strong> System Design, Project & Team Management, Event Handling, Cloud Concepts</li>
-    </ul>
-  </div>
+---
 
-  <div class="projects">
-    <h2>🛠 Projects & Experience</h2>
+## 💻 Technical Skills
 
-    <h3>HiveMind – Full-Stack Project Collaboration Platform</h3>
-    <p><strong>Role:</strong> Full-Stack Developer & Core Service Architect</p>
-    <p><strong>Tech:</strong> Spring Boot, MERN Stack, MongoDB, Kafka, WebSockets, Docker</p>
-    <ul>
-      <li>Platform for students to collaborate on projects and hackathons.</li>
-      <li>Implemented role-based authentication and authorization (TEAM_LEADER, TEAM_MEMBER, CLUB_HEAD).</li>
-      <li>Designed core microservices for project, team, and event management.</li>
-      <li>Notification service with email, in-app, and Firebase push notifications.</li>
-      <li>Chat service (WebSockets, planned upgrade to Go).</li>
-      <li>Built for scalability and maintainability using Docker and Kafka.</li>
-    </ul>
+- **Backend:** Java, Spring Boot,Node.js,express.js, REST APIs, JWT Authentication, Role-Based Access Control, Microservices Architecture, Kafka, WebSockets  
+- **Frontend:** React, React Native, Expo, Tailwind CSS  
+- **Database:** MongoDB, Aggregation Pipelines, Indexing, Data Modeling, Relationships  
+- **DevOps & Tools:** Docker, Git/GitHub, VSCode, IntelliJ IDEA, Postman  
+- **Other Expertise:** System Design, Project & Team Management, Event Handling, Cloud Concepts, Scalable Application Design  
 
-    <h3>SnapTask – Task Marketplace App</h3>
-    <p><strong>Role:</strong> Full-Stack Developer</p>
-    <p><strong>Tech:</strong> React Native, Expo Router, Spring Boot, MongoDB</p>
-    <ul>
-      <li>Multi-step task creation and bidding system for Posters and Seekers.</li>
-      <li>Notifications for task updates and interest requests.</li>
-      <li>Secure authentication with JWT and role-based access.</li>
-      <li>Scalable backend design for tasks, users, bids, and notifications.</li>
-    </ul>
+---
 
-    <h3>College Coding Club – Full-Stack Assessment Platform</h3>
-    <p><strong>Role:</strong> Full-Stack Developer – Tech Team</p>
-    <p><strong>Organization:</strong> Uttaranchal School of Computing Sciences (USCS), Uttaranchal University (Coding Club)</p>
-    <ul>
-      <li>Developed a platform for multi-round coding assessments (MCQ + DSA).</li>
-      <li>Automated code execution using Piston APIs.</li>
-      <li>Admin panel to monitor scores and competition progress.</li>
-      <li>Received a <span class="highlight">Letter of Appreciation</span> for contributions.</li>
-    </ul>
-  </div>
+## 🛠 Projects & Experience
 
-  <div class="experience">
-    <h2>📈 Achievements</h2>
-    <ul>
-      <li>Letter of Appreciation for building the coding assessment platform.</li>
-      <li>Built scalable full-stack applications used in college competitions and hackathons.</li>
-      <li>Hands-on experience with microservices, real-time communication, and full-stack development.</li>
-    </ul>
-  </div>
+### HiveMind – Full-Stack Project Collaboration Platform
+**Role:** Full-Stack Developer & Core Service Architect  
+**Tech Stack:** Spring Boot, MongoDB, Kafka, WebSockets, Docker  
 
-  <div class="connect">
-    <h2>📫 Connect with Me</h2>
-    <ul>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/avinash-handuri" target="_blank">Avinash Handuri</a></li>
-      <li>GitHub: <a href="https://github.com/avinash-khanduri" target="_blank">@avinash-khanduri</a></li>
-      <li>X / Twitter: <a href="https://twitter.com/yourXhandle" target="_blank">@yourXhandle</a></li>
-    </ul>
-  </div>
+HiveMind is a **full-stack platform designed to help students collaborate on projects, hackathons, and other team-based events**. I was responsible for designing and implementing the core architecture and microservices that power the platform.
 
-</body>
-</html>
+**Key Contributions:**
+- Developed **role-based authentication and authorization** with three roles: TEAM_LEADER, TEAM_MEMBER, and CLUB_HEAD.
+- Designed **core microservices** for project management, team coordination, event handling, and business logic orchestration.
+- Built a **Notification Service** delivering in-app notifications, email updates, and Firebase push notifications.
+- Implemented **real-time chat service** using WebSockets (planned upgrade to Go for better performance in the future).
+- Ensured the system is **scalable and maintainable** using Docker containers and Kafka for inter-service communication.
+
+---
+
+### SnapTask – Task Marketplace Application
+**Role:** Full-Stack Developer  
+**Tech Stack:** React Native, Expo Router, Spring Boot, MongoDB  
+
+SnapTask is a **multi-step task marketplace app** where users (Posters) can create tasks and other users (Seekers) can place bids.  
+
+**Key Contributions:**
+- Developed a **multi-step task creation form** with dynamic previews and validation.
+- Built **secure authentication** with JWT and role-based access control.
+- Designed a **scalable backend** for tasks, users, bids, and notifications.
+- Implemented **real-time notifications** for task updates, bids, and interest requests.
+
+---
+
+### College Coding Club – Full-Stack Assessment Platform
+**Role:** Full-Stack Developer – Tech Team  
+**Organization:** Uttaranchal School of Computing Sciences (USCS), Uttaranchal University (Coding Club)  
+
+I contributed to **developing a full-stack platform for college coding competitions**. The platform allowed participants to take multi-round assessments, including MCQs and DSA challenges.
+
+**Key Contributions:**
+- Built **multi-round coding assessments** with automated evaluation.
+- Integrated **Piston API** for automatic code execution in various programming languages.
+- Developed an **admin panel** to monitor scores, submissions, and competition progress.
+- Received a **Letter of Appreciation** for significant contributions and project ownership.
+
+---
+
+## 📈 Achievements & Highlights
+
+- 🏆 **1st Place – Web Development Competition (World Theatre Day):** Developed "Theatre Events", a website for theatre event management using HTML, CSS, JavaScript, and Firebase.
+- 🏆 **1st Place – Web Development Competition by Training Shala:** Built a website following design requirements using Django, HTML, CSS, JavaScript, and Bootstrap.
+- 🥈 **2nd Place – IT Utsav (College Competition):** Created "Go Green", a project promoting environmental sustainability through technology, using HTML, CSS, JavaScript, Firebase, and Bootstrap.
+- Successfully **led and implemented core services** for large-scale projects.
+- Hands-on experience with **microservices, real-time communication, and scalable full-stack architecture**.
+- Experience with **project management and team collaboration**, including mentoring and coordinating club tech teams.
+- Recognized with a **Letter of Appreciation** for contribution to coding assessment platform.
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Avinash Khanduri](www.linkedin.com/in/avinash-khanduri-207639291)   
+- **X / Twitter:** [@yourXhandle](https://twitter.com/yourXhandle)  
