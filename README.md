@@ -1,76 +1,150 @@
-# Avinash Khanduri
+<h1 align="center">Hi, I'm Avinash Khanduri 👋</h1>
 
-**Full-Stack Developer** specializing in Spring Boot & MERN stack. I build **scalable backend systems**, **clean API architectures**, and **user-focused web and mobile solutions**. My work focuses on structured problem-solving, long-term maintainability, and delivering real-world solutions that have impact.
+<p align="center">
+  <b>Full-Stack Engineer</b> • <b>Distributed Systems</b> • <b>Scalable Backends</b> • <b>AI-Driven Automation</b>
+</p>
 
----
+<p align="center">
+  I build production-oriented applications with a strong focus on <b>system design</b>, <b>performance</b>, and <b>real-world reliability</b>.
+  <br/>
+  My work spans backend-heavy systems, event-driven architectures, and full-stack products built for live environments.
+</p>
 
-## 💻 Technical Skills
-
-- **Backend:** Java, Spring Boot,Node.js,express.js, REST APIs, JWT Authentication, Role-Based Access Control, Microservices Architecture, Kafka, WebSockets  
-- **Frontend:** React, React Native, Expo, Tailwind CSS  
-- **Database:** MongoDB, Aggregation Pipelines, Indexing, Data Modeling, Relationships  
-- **DevOps & Tools:** Docker, Git/GitHub, VSCode, IntelliJ IDEA, Postman  
-- **Other Expertise:** System Design, Project & Team Management, Event Handling, Cloud Concepts, Scalable Application Design  
-
----
-
-## 🛠 Projects & Experience
-
-### HiveMind – Full-Stack Project Collaboration Platform
-**Role:** Full-Stack Developer & Core Service Architect  
-**Tech Stack:** Spring Boot, MongoDB, Kafka, WebSockets, Docker  
-
-HiveMind is a **full-stack platform designed to help students collaborate on projects, hackathons, and other team-based events**. I was responsible for designing and implementing the core architecture and microservices that power the platform.
-
-**Key Contributions:**
-- Developed **role-based authentication and authorization** with three roles: TEAM_LEADER, TEAM_MEMBER, and CLUB_HEAD.
-- Designed **core microservices** for project management, team coordination, event handling, and business logic orchestration.
-- Built a **Notification Service** delivering in-app notifications, email updates, and Firebase push notifications.
-- Implemented **real-time chat service** using WebSockets (planned upgrade to Go for better performance in the future).
-- Ensured the system is **scalable and maintainable** using Docker containers and Kafka for inter-service communication.
+<p align="center">
+  <a href="https://www.linkedin.com/in/avinash-khanduri-207639291">
+    <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Khanduri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-1F6FEB?style=for-the-badge" alt="Focus Distributed Systems" />
+  <img src="https://img.shields.io/badge/Building-Production%20Ready%20Systems-0F766E?style=for-the-badge" alt="Building Production Ready Systems" />
+</p>
 
 ---
 
-### SnapTask – Task Marketplace Application
+## 🚀 About Me
+
+- ⚙️ I enjoy building scalable systems and backend-first products
+- 🧠 I’m especially interested in distributed architectures and event-driven design
+- 🌱 I’m currently learning Golang while strengthening system-level engineering skills
+- 🛡️ I care deeply about reliability, failure handling, and production-ready execution
+- 🤝 I like working on systems that are actually used by real users in live environments
+
+---
+
+## 🧰 Tech Stack
+
+### Backend & Systems
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/WebSockets-3C873A?style=for-the-badge" alt="WebSockets" />
+</p>
+
+### Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo%20Router-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Router" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Database, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+### Core Strengths
+`System Design` `Distributed Systems` `Backend Architecture` `Real-Time Systems` `Scalable Application Design` `API Design` `RBAC` `JWT Authentication` `Event-Driven Systems`
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔹 Veltrix
+**Distributed Execution Platform**  
+**Role:** System Designer & Backend Engineer  
+**Stack:** `Go` `Kafka` `MongoDB` `gRPC` `Object Storage` `Event-Driven Architecture`
+
+Veltrix is a serverless-style distributed execution platform designed to execute user-defined functions at scale with strong reliability, failure isolation, and observability.
+
+**What I built**
+- 🧩 Designed a `Gateway -> Scheduler -> Worker` architecture with strict control/data plane separation
+- 📡 Built event-driven execution pipelines using Kafka for decoupled and scalable processing
+- ⚡ Implemented worker-pool based execution with process-level concurrency
+- 🔁 Designed execution lifecycle handling for trigger, cancel, retry, and replay
+- 🕒 Built a `Time Travel Execution` capability to reconstruct historical runs for debugging
+- 📦 Integrated object storage for code versioning and worker-side caching
+- 🛡️ Focused on resilience, containment, and reliability under failure conditions
+
+### 🔹 SnapTask
+**Task Collaboration Platform**  
 **Role:** Full-Stack Developer  
-**Tech Stack:** React Native, Expo Router, Spring Boot, MongoDB  
+**Stack:** `React Native` `Expo Router` `Spring Boot` `MongoDB` `WebSockets`
 
-SnapTask is a **multi-step task marketplace app** where users (Posters) can create tasks and other users (Seekers) can place bids.  
+SnapTask is a mobile-first task collaboration and marketplace platform connecting task posters and seekers through real-time interactions and bidding workflows.
 
-**Key Contributions:**
-- Developed a **multi-step task creation form** with dynamic previews and validation.
-- Built **secure authentication** with JWT and role-based access control.
-- Designed a **scalable backend** for tasks, users, bids, and notifications.
-- Implemented **real-time notifications** for task updates, bids, and interest requests.
+**What I built**
+- 📱 Built mobile-first Poster and Seeker flows
+- 🏗️ Designed scalable backend architecture for tasks, bids, users, and notifications
+- 🔐 Implemented JWT-based authentication with RBAC
+- 🔔 Developed real-time notifications and live interaction workflows
+- 🧾 Created a multi-step task creation flow with validation and preview
+
+### 🔹 Byte
+**Coding Competition Platform**  
+**Role:** Full-Stack Developer (Core Tech Team)  
+**Organization:** Coding Club, Uttaranchal University  
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Piston API`
+
+Byte is a production-used coding competition platform built to run structured, multi-round technical events reliably.
+
+**What I built**
+- 🎯 Built a two-round competition flow covering `MCQ + DSA`
+- ⚡ Implemented client-side MCQ evaluation for instant feedback and reduced backend load
+- 🧪 Designed a backend code-execution pipeline using Piston API
+- 🔌 Developed REST APIs for submissions, scoring, and result tracking
+- 📊 Built an admin dashboard for real-time participant monitoring
+- 👥 Successfully supported `300+ live users` during a coding event
+
+### 🔹 HiveMind
+**Collaboration Platform**  
+**Role:** Full-Stack Developer & Core Service Architect  
+**Stack:** `Spring Boot` `MongoDB` `Kafka` `WebSockets` `Docker`
+
+HiveMind is a platform for team coordination, project management, and event-driven collaboration workflows.
+
+**What I built**
+- 👥 Designed a role-based workflow for `Leader`, `Member`, and `Club Head`
+- 🏛️ Built a microservices architecture for modular growth and scalability
+- 📬 Developed a notification system covering in-app, email, and push flows
+- 💬 Implemented real-time chat using WebSockets
+- 🔄 Integrated Kafka for asynchronous inter-service communication
 
 ---
 
-### College Coding Club – Full-Stack Assessment Platform
-**Role:** Full-Stack Developer – Tech Team  
-**Organization:** Uttaranchal School of Computing Sciences (USCS), Uttaranchal University (Coding Club)  
+## 🏆 Achievements
 
-I contributed to **developing a full-stack platform for college coding competitions**. The platform allowed participants to take multi-round assessments, including MCQs and DSA challenges.
-
-**Key Contributions:**
-- Built **multi-round coding assessments** with automated evaluation.
-- Integrated **Piston API** for automatic code execution in various programming languages.
-- Developed an **admin panel** to monitor scores, submissions, and competition progress.
-- Received a **Letter of Appreciation** for significant contributions and project ownership.
+- 🥇 1st Place in Web Development Competition - World Theatre Day
+- 🥇 1st Place in Web Development Competition - Training Shala
+- 🥈 2nd Place in IT Utsav
+- 🚀 Built and deployed systems used in real-world environments
+- 👥 Worked on platforms handling `300+ live users`
+- 🧠 Strong hands-on experience with distributed systems and event-driven design
+- 🤝 Led technical initiatives and execution in high-pressure environments
 
 ---
 
-## 📈 Achievements & Highlights
+## 📫 Connect With Me
 
-- 🏆 **1st Place – Web Development Competition (World Theatre Day):** Developed "Theatre Events", a website for theatre event management using HTML, CSS, JavaScript, and Firebase.
-- 🏆 **1st Place – Web Development Competition by Training Shala:** Built a website following design requirements using Django, HTML, CSS, JavaScript, and Bootstrap.
-- 🥈 **2nd Place – IT Utsav (College Competition):** Created "Go Green", a project promoting environmental sustainability through technology, using HTML, CSS, JavaScript, Firebase, and Bootstrap.
-- Successfully **led and implemented core services** for large-scale projects.
-- Hands-on experience with **microservices, real-time communication, and scalable full-stack architecture**.
-- Experience with **project management and team collaboration**, including mentoring and coordinating club tech teams.
-- Recognized with a **Letter of Appreciation** for contribution to coding assessment platform.
+- LinkedIn: [avinash-khanduri-207639291](https://www.linkedin.com/in/avinash-khanduri-207639291)
 
----
-
-## 📫 Connect with Me
-- **LinkedIn:** [Avinash Khanduri](www.linkedin.com/in/avinash-khanduri-207639291)   
-- **X / Twitter:** [@yourXhandle](https://twitter.com/yourXhandle)  
